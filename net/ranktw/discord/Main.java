@@ -14,11 +14,9 @@ public class Main {
     static GuiDTC guiMain;
     static GuiInput guiInput;
     static List<String> tokens = new ArrayList<>();
-
     public static File currFolder;
 
     public static void main(String[] args) {
-	// write your code here
         GuiDTC.start();
         GuiInput.start();
     }
