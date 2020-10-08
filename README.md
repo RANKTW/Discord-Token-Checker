@@ -7,4 +7,9 @@ One Click Button to log in via token directly!<br>
 ...<br>
 and more!
 
+# Download
+
+[DTC.exe](https://github.com/RANKTW/Discord-Token-Checker/releases/download/v1.6/DTC.exe)<br>
+[DTC.jar](https://github.com/RANKTW/Discord-Token-Checker/releases/download/v1.6/DTC.zip)
+
 ![.](https://user-images.githubusercontent.com/37373560/73079022-6b3d0d80-3efe-11ea-9dd3-64b23dd78555.png)
