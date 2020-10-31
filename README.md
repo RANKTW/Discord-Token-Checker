@@ -3,7 +3,7 @@ Discord Token Checker with GUI
 
 Support Proxyless , HTTP/SOCKS , User/Pass Authorization Proxy<br>
 Options to check Guild Count, DM History, Friend Count<br>
-One Click Button to log in via token directly!<br>
+Simply one click to log in discord via token directly!<br>
 ...<br>
 and more!
 
