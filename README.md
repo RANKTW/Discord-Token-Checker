@@ -1,4 +1,7 @@
 # Discord-Token-Checker
+![](https://img.shields.io/github/downloads/RANKTW/Discord-Token-Checker/total?label=Downloads)
+![](https://img.shields.io/github/stars/RANKTW/Discord-Token-Checker)
+
 Discord Token Checker with GUI
 
 Support Proxyless , HTTP/SOCKS , User/Pass Authorization Proxy `ip:port:user:pass`<br>
