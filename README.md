@@ -17,6 +17,14 @@ and more!
 
 **Required Java 8 - http://java.com/download**
 
+#  
+
+[![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/1HQS8sZwo5j83VftPdx8r4DuTVsFuWeFP9)](https://en.cryptobadges.io/donate/1HQS8sZwo5j83VftPdx8r4DuTVsFuWeFP9)<br>
+[![Donate with Litecoin](https://en.cryptobadges.io/badge/small/LYPZ8zPQCoqYGZZ3vZMfwfdKe36wcWT3ss)](https://en.cryptobadges.io/donate/LYPZ8zPQCoqYGZZ3vZMfwfdKe36wcWT3ss)<br>
+[![Donate with Ethereum](https://en.cryptobadges.io/badge/small/0xb63E24afD3077307e0725413e4d983a5dF5aD7C6)](https://en.cryptobadges.io/donate/0xb63E24afD3077307e0725413e4d983a5dF5aD7C6)
+
+#  
+
 ![.](https://user-images.githubusercontent.com/37373560/73079022-6b3d0d80-3efe-11ea-9dd3-64b23dd78555.png)
 ![.](https://file.coffee/u/74O8vJrOqL.gif)
 ![.](https://file.coffee/u/ug2VXgrHz.gif)
