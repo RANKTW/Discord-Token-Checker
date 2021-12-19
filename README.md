@@ -12,8 +12,8 @@ and more!
 
 # Download
 
-[DTC.jar](https://github.com/RANKTW/Discord-Token-Checker/releases/latest/download/DTC.zip) or 
-[DTC.exe](https://github.com/RANKTW/Discord-Token-Checker/releases/latest/download/DTC.exe)<br>
+[DTC.jar](https://github.com/RANKTW/Discord-Token-Checker/releases/latest/download/DTC.zip)<!-- or 
+[DTC.exe](https://github.com/RANKTW/Discord-Token-Checker/releases/latest/download/DTC.exe)<br> -->
 
 **Required Java 8 - http://java.com/download**
 
