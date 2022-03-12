@@ -20,8 +20,8 @@ and more!
 #  
 
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/1HQS8sZwo5j83VftPdx8r4DuTVsFuWeFP9)](https://en.cryptobadges.io/donate/1HQS8sZwo5j83VftPdx8r4DuTVsFuWeFP9)<br>
-[![Donate with Litecoin](https://en.cryptobadges.io/badge/small/LYPZ8zPQCoqYGZZ3vZMfwfdKe36wcWT3ss)](https://en.cryptobadges.io/donate/LYPZ8zPQCoqYGZZ3vZMfwfdKe36wcWT3ss)<br>
-[![Donate with Ethereum](https://en.cryptobadges.io/badge/small/0xb63E24afD3077307e0725413e4d983a5dF5aD7C6)](https://en.cryptobadges.io/donate/0xb63E24afD3077307e0725413e4d983a5dF5aD7C6)<br>
+[![Donate with Litecoin](https://en.cryptobadges.io/badge/small/LgfhKQe3wTcseUwqTjKkzFgunU7RZNu5i5)](https://en.cryptobadges.io/donate/LgfhKQe3wTcseUwqTjKkzFgunU7RZNu5i5)<br>
+[![Donate with Ethereum](https://en.cryptobadges.io/badge/small/0x3321A4344750193031A5da541098265cE8C40c8e)](https://en.cryptobadges.io/donate/0x3321A4344750193031A5da541098265cE8C40c8e)<br>
 [![Donate with Ripple](https://en.cryptobadges.io/badge/small/ra8HRjfscAd1W96Vyd7fyQ1ra45GiMZUbo)](https://en.cryptobadges.io/donate/ra8HRjfscAd1W96Vyd7fyQ1ra45GiMZUbo)
 
 #  
