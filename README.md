@@ -10,14 +10,25 @@ Simply one click to log in discord via token directly!<br>
 ...<br>
 and more!
 
-# Download
-
-[DTC.jar](https://github.com/RANKTW/Discord-Token-Checker/releases/latest/download/DTC.zip)<!-- or 
+# Download ![](https://img.shields.io/github/release/RANKTW/Discord-Token-Checker?label=Latest%20version)
+  * `1.9` - [DTC.jar](https://github.com/RANKTW/Discord-Token-Checker/releases/latest/download/DTC.zip)<!-- or 
 [DTC.exe](https://github.com/RANKTW/Discord-Token-Checker/releases/latest/download/DTC.exe)<br> -->
 
-**Required Java 8 - http://java.com/download**
+### **Requirement**
+  * Install Java 8 - http://java.com/download
 
-#  
+### **Supported platforms**
+  * Windows • Linux • macOS
+
+#  About this project
+
+This is a Checker I made for fun while I was learning the UI design<br>
+but its keep become bigger and bigger now has over 20k download!<br>
+thanks for everyone who have been support me so far 🤗<br>
+I may consider release source code in future.
+
+This Checker is completely free (if found anyone selling, don't buy, its scam)<br>
+but if you willing to donate some money to help me buy a few cups coffee it highly appreciated!
 
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/1HQS8sZwo5j83VftPdx8r4DuTVsFuWeFP9)](https://en.cryptobadges.io/donate/1HQS8sZwo5j83VftPdx8r4DuTVsFuWeFP9)<br>
 [![Donate with Litecoin](https://en.cryptobadges.io/badge/small/LgfhKQe3wTcseUwqTjKkzFgunU7RZNu5i5)](https://en.cryptobadges.io/donate/LgfhKQe3wTcseUwqTjKkzFgunU7RZNu5i5)<br>
