@@ -11,7 +11,7 @@ Simply one click to log in discord via token directly!<br>
 and more!
 
 # Download ![](https://img.shields.io/github/release/RANKTW/Discord-Token-Checker?label=Latest%20version)
-  * `1.9` - [DTC.jar](https://github.com/RANKTW/Discord-Token-Checker/releases/latest/download/DTC.zip)<!-- or 
+  * `1.10` - [DTC.jar](https://github.com/RANKTW/Discord-Token-Checker/releases/latest/download/DTC.zip)<!-- or 
 [DTC.exe](https://github.com/RANKTW/Discord-Token-Checker/releases/latest/download/DTC.exe)<br> -->
 
 ### **Requirement**
