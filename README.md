@@ -11,7 +11,7 @@ Simply one click to log in discord via token directly!<br>
 and more!
 
 # Download ![](https://img.shields.io/github/release/RANKTW/Discord-Token-Checker?label=Latest%20version)
-  * `1.11.1` - [DTC.jar](https://github.com/RANKTW/Discord-Token-Checker/releases/latest/download/DTC.zip)<!-- or 
+  * `1.11.2` - [DTC.jar](https://github.com/RANKTW/Discord-Token-Checker/releases/latest/download/DTC.zip)<!-- or 
 [DTC.exe](https://github.com/RANKTW/Discord-Token-Checker/releases/latest/download/DTC.exe)<br> -->
 
 ### **Requirement**
@@ -28,12 +28,7 @@ thanks for everyone who have been support me so far 🤗<br>
 I may consider release source code in future.
 
 This Checker is completely free (if found anyone selling, don't buy, its scam)<br>
-but if you willing to donate some money to help me buy a few cups coffee it highly appreciated!
-
-[![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/1HQS8sZwo5j83VftPdx8r4DuTVsFuWeFP9)](https://en.cryptobadges.io/donate/1HQS8sZwo5j83VftPdx8r4DuTVsFuWeFP9)<br>
-[![Donate with Litecoin](https://en.cryptobadges.io/badge/small/LgfhKQe3wTcseUwqTjKkzFgunU7RZNu5i5)](https://en.cryptobadges.io/donate/LgfhKQe3wTcseUwqTjKkzFgunU7RZNu5i5)<br>
-[![Donate with Ethereum](https://en.cryptobadges.io/badge/small/0x3321A4344750193031A5da541098265cE8C40c8e)](https://en.cryptobadges.io/donate/0x3321A4344750193031A5da541098265cE8C40c8e)<br>
-[![Donate with Ripple](https://en.cryptobadges.io/badge/small/ra8HRjfscAd1W96Vyd7fyQ1ra45GiMZUbo)](https://en.cryptobadges.io/donate/ra8HRjfscAd1W96Vyd7fyQ1ra45GiMZUbo)
+but if you willing to [donate](https://tokenu.net/product/609bc4342fd11) some money to help me buy a few cups coffee it highly appreciated!
 
 #  
 
