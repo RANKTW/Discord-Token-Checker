@@ -23,7 +23,7 @@ and more!
 #  About this project
 
 This is a Checker I made for fun while I was learning the UI design<br>
-but its keep become bigger and bigger now has over 20k download!<br>
+but its keep become bigger and bigger now has over 30k download!<br>
 thanks for everyone who have been support me so far 🤗<br>
 I may consider release source code in future.
 
