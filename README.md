@@ -30,6 +30,10 @@ I may consider release source code in future.
 This Checker is completely free (if found anyone selling, don't buy, its scam)<br>
 but if you willing to [donate](https://tokenu.net/product/609bc4342fd11) some money to help me buy a few cups coffee it highly appreciated!
 
+<a target="_blank" href="https://t.me/RANKTWTelegram">
+ <img src="https://file.coffee/u/Ydy2_I0MHZql_IPczsbpE.gif">
+</a>
+
 #  
 
 ![.](https://user-images.githubusercontent.com/37373560/73079022-6b3d0d80-3efe-11ea-9dd3-64b23dd78555.png)
