@@ -4,11 +4,14 @@
 
 Discord Token Checker with GUI
 
-Support Proxyless , HTTP/SOCKS , User/Pass Authorization Proxy `ip:port:user:pass`<br>
+Support Proxyless , HTTP/SOCKS , User/Pass Authorization Proxy<br>
 Options to check Guild Count, DM History, Friend Count<br>
 Simply one click to log in discord via token directly!<br>
-...<br>
-and more!
+... and more!
+
+### **Supported Proxy Format**
+ `hostname:port:username:password`<br>
+ `username:password@hostname:port`
 
 # Download ![](https://img.shields.io/github/release/RANKTW/Discord-Token-Checker?label=Latest%20version)
   * `1.11.2` - [DTC.jar](https://github.com/RANKTW/Discord-Token-Checker/releases/latest/download/DTC.zip)<!-- or 
