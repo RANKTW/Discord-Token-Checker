@@ -34,7 +34,7 @@ This Checker is completely free (if found anyone selling, don't buy, its scam)<b
 but if you willing to [donate](https://tokenu.net/product/609bc4342fd11) some money to help me buy a few cups coffee it highly appreciated!
 
 <a target="_blank" href="https://t.me/RANKTWTelegram">
- <img src="https://file.coffee/u/Ydy2_I0MHZql_IPczsbpE.gif">
+ <img src="https://i.imgur.com/o8K3wtq.gif">
 </a>
 
 #  
