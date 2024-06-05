@@ -33,9 +33,8 @@ Starting at $2.00/GB
 #  About this project
 
 This is a Checker I made for fun while I was learning the UI design<br>
-but its keep become bigger and bigger now has over 30k download!<br>
+but its keep become bigger and bigger now has over 60k download!<br>
 thanks for everyone who have been support me so far 🤗<br>
-I may consider release source code in future.
 
 This Checker is completely free (if found anyone selling, don't buy, its scam)<br>
 but if you willing to [donate](https://tokenu.net/product/609bc4342fd11) some money to help me buy a few cups coffee it highly appreciated!
