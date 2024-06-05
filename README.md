@@ -21,7 +21,7 @@ Simply one click to log in discord via token directly!<br>
 Starting at $2.00/GB
 
 # Download ![](https://img.shields.io/github/release/RANKTW/Discord-Token-Checker?label=Latest%20version)
-  * `1.12` - [DTC.jar](https://github.com/RANKTW/Discord-Token-Checker/releases/latest)<!-- or 
+  * `1.13` - [DTC.jar](https://github.com/RANKTW/Discord-Token-Checker/releases/latest)<!-- or 
 [DTC.exe](https://github.com/RANKTW/Discord-Token-Checker/releases/latest/download/DTC.exe)<br> -->
 
 ### **Requirement**
