@@ -18,10 +18,10 @@ Simply one click to log in discord via token directly!<br>
 
 #### Need Residential Proxies?
 [https://tokenu.to](https://tokenu.to/?utm_source=github&utm_medium=DTC)
-Starting at $2.00/GB
+Starting at $1.50/GB
 
 # Download ![](https://img.shields.io/github/release/RANKTW/Discord-Token-Checker?label=Latest%20version)
-  * `1.13` - [DTC.jar](https://github.com/RANKTW/Discord-Token-Checker/releases/latest)<!-- or 
+  * `1.14` - [DTC.jar](https://github.com/RANKTW/Discord-Token-Checker/releases/latest)<!-- or 
 [DTC.exe](https://github.com/RANKTW/Discord-Token-Checker/releases/latest/download/DTC.exe)<br> -->
 
 ### **Requirement**
@@ -46,6 +46,7 @@ but if you willing to [donate](https://tokenu.net/product/609bc4342fd11) some mo
 #  
 
 ![.](https://user-images.githubusercontent.com/37373560/73079022-6b3d0d80-3efe-11ea-9dd3-64b23dd78555.png)
-![.](https://file.coffee/u/74O8vJrOqL.gif)
+![.](https://i.imgur.com/0MSVIbj.gif)
 ![.](https://file.coffee/u/ug2VXgrHz.gif)
-![.](https://file.coffee/u/1W0Euej9S9.png)
+![.](https://i.imgur.com/gio6R9g.png)  
+![.](https://i.imgur.com/CbR7IJT.png)
