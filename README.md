@@ -1,4 +1,6 @@
 # Discord-Token-Checker
+**`Still working as of today (last tested in April 2025)`**
+
 ![](https://img.shields.io/github/downloads/RANKTW/Discord-Token-Checker/total?label=Downloads)
 ![](https://img.shields.io/github/stars/RANKTW/Discord-Token-Checker)
 
