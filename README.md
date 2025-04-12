@@ -1,5 +1,4 @@
 # Discord-Token-Checker
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRANKTW%2FDiscord-Token-Checker&count_bg=%234AC123&title_bg=%23363636&icon=&icon_color=%23E7E7E7&title=Views+Daily%2FTotal&edge_flat=false)
 ![](https://img.shields.io/github/downloads/RANKTW/Discord-Token-Checker/total?label=Downloads)
 ![](https://img.shields.io/github/stars/RANKTW/Discord-Token-Checker)
 
