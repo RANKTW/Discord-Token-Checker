@@ -49,6 +49,6 @@ but if you willing to [donate](https://tokenu.net/product/609bc4342fd11) some mo
 
 ![.](https://user-images.githubusercontent.com/37373560/73079022-6b3d0d80-3efe-11ea-9dd3-64b23dd78555.png)
 ![.](https://i.imgur.com/0MSVIbj.gif)
-![.](https://file.coffee/u/ug2VXgrHz.gif)
+<!-- ![.](https://file.coffee/u/ug2VXgrHz.gif) !-->
 ![.](https://i.imgur.com/gio6R9g.png)  
 ![.](https://i.imgur.com/CbR7IJT.png)
